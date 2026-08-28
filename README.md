@@ -14,9 +14,9 @@ Versão inicial — foco em cães e gatos.
 Futuras versões incluirão outros animais, respeitando a legislação brasileira.
 
 ## 🛠️ Tecnologias
-- Linguagem: (ex: Python, JavaScript)
-- Frameworks: (ex: Flask, React)
-- Banco de dados: (ex: SQLite, PostgreSQL)
+- Linguagem: JavaScript
+- Frameworks: React
+- Banco de dados: PostgreSQL
 
 ## 🤝 Contribuição
 Contribuições são bem-vindas!  
